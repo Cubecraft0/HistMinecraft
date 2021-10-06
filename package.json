@@ -1,0 +1,13 @@
+{
+  "name": "v6fdb",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "Main.js",
+  "scripts": {
+    "node": "node Main.js"
+  },
+  "dependencies": {
+    "discord.js": "13.2.0"
+  }
+}
