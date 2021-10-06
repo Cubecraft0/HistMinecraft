@@ -5,4 +5,4 @@ Client.on("ready", () => {
   console.log("ready");
 });
 
-Client.login();
+Client.login(process.env.token);
