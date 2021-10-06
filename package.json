@@ -4,6 +4,9 @@
   "description": "",
   "keywords": [],
   "main": "Main.js",
+  "runtimes": {
+    "node": "1.16.10"
+  },
   "scripts": {
     "start": "node Main.js"
   },
