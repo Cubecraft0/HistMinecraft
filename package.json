@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "Main.js",
   "scripts": {
-    "node": "node Main.js"
+    "start": "node Main.js"
   },
   "dependencies": {
     "discord.js": "13.2.0"
